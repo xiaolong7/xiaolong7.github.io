@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Computational Scientist"
   location         : "San Francisco Bay Area"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wNeFi70AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Xiaolong-He-10"
+  researchgate     :  "https://www.researchgate.net/profile/Xiaolong-He-10"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5307-0681"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
