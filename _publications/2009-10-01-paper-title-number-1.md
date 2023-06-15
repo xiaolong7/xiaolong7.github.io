@@ -2,7 +2,7 @@
 title: "gLaSDI: Parametric Physics-informed Greedy Latent Space Dynamics Identification"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2023-06-05
 venue: 'Journal of Computational Physics'
 paperurl: ''
@@ -10,6 +10,8 @@ citation: 'He, X., Choi, Y., Fries, W. D., Belof, J. L., & Chen, J. S. (2023). &
 ---
 A parametric adaptive physics-informed greedy Latent Space Dynamics Identification (gLaSDI) method is proposed for accurate, efficient, and robust data-driven reduced-order modeling of high-dimensional nonlinear dynamical systems. In the proposed gLaSDI framework, an autoencoder discovers intrinsic nonlinear latent representations of high-dimensional data, while dynamics identification (DI) models capture local latent-space dynamics. An interactive training algorithm is adopted for the autoencoder and local DI models, which enables identification of simple latent-space dynamics and enhances accuracy and efficiency of data-driven reduced-order modeling. To maximize and accelerate the exploration of the parameter space for the optimal model performance, an adaptive greedy sampling algorithm integrated with a physics-informed residual-based error indicator and random-subset evaluation is introduced to search for the optimal training samples on the fly. Further, to exploit local latent-space dynamics captured by the local DI models for an improved modeling accuracy with a minimum number of local DI models in the parameter space, a k-nearest neighbor convex interpolation scheme is employed. The effectiveness of the proposed framework is demonstrated by modeling various nonlinear dynamical problems, including Burgers equations, nonlinear heat conduction, and radial advection. The proposed adaptive greedy sampling outperforms the conventional predefined uniform sampling in terms of accuracy. Compared with the high-fidelity models, gLaSDI achieves 17 to 2,658× speed-up with 1 to 5% relative errors.
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<!---
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+--->
