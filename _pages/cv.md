@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Structural Engineering w/ a Specialization in Computational Science, University of California San Diego, 2022
+* M.S. in Computational Mechanics, Eramus Mundus: Universität Stuttgart, Swansea University, 2017
+* B.S. in Theoretical and Applied Mechanics, Sun Yat-Sen University, 2014
 
 Work experience
 ======
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+//Skills
 ======
 * Skill 1
 * Skill 2
