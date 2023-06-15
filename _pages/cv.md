@@ -15,7 +15,7 @@ Education
 * M.S. in Computational Mechanics, Eramus Mundus: Universität Stuttgart, Swansea University, 2017
 * B.S. in Theoretical and Applied Mechanics, Sun Yat-Sen University, 2014
 
-Work experience
+<!---Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-//Skills
+Skills
 ======
 * Skill 1
 * Skill 2
@@ -57,3 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
