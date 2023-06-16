@@ -1,0 +1,12 @@
+title: "LaSDI: Parametric Latent Space Dynamics Identification"
+collection: publications
+permalink: 
+excerpt: ''
+date: 2022-09-01
+venue: 'Computer Methods in Applied Mechanics and Engineering'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Fries, W. D., He, X., & Choi, Y. (2022). &quot;LaSDI: Parametric Latent Space Dynamics Identification.&quot; <i>Computer Methods in Applied Mechanics and Engineering</i>. 339, 115436.'
+---
+Enabling fast and accurate physical simulations with data has become an important area of computational physics to aid in inverse problems, design-optimization, uncertainty quantification, and other various decision-making applications. This paper presents a data-driven framework for parametric latent space dynamics identification procedure that enables fast and accurate simulations. The parametric model is achieved by building a set of local latent space model and designing an interaction among them. An individual local latent space dynamics model achieves accurate solution in a trust region. By letting the set of trust region to cover the whole parameter space, our model shows an increase in accuracy with an increase in training data. We introduce two different types of interaction mechanisms, i.e., point-wise and region-based approach. Both linear and nonlinear data compression techniques are used. We illustrate the framework of Latent Space Dynamics Identification (LaSDI) enable a fast and accurate solution process on various partial differential equations, i.e., Burgers’ equations, radial advection problem, and nonlinear heat conduction problem, achieving O(100)x speed-up and O(1)% relative error with respect to the corresponding full order models.
+
+
